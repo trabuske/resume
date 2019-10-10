@@ -45,7 +45,7 @@ endif::[]
 
 ****
 
-I'm a *systems analyst/developer* who works with many technologies, like *Java, Microsoft .Net and Android*.+
+I'm a *systems analyst/developer* who works, essentially, with *Java* and related technologies.+
 
 I have a bachelor degree in {link-resume}/#_education[Systems Information] and I work with software development since 2008. +
 
