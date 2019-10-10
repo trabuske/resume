@@ -119,11 +119,9 @@ Position:: *Java Developer* +
 
 ==== Used technologies
 
-* C#
-* ASP.NET
-* Microsoft .Net Framework 3.5
-* Jira
-* OracleDB
+* Java
+* Jasper Reports
+* MSSQL Server BD
 
 === Java Developer at UNISC - Universidade de Santa Cruz do Sul
 
