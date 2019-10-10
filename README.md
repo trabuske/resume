@@ -1,1 +1,0 @@
-# Tiago A. Rabuske Resume
