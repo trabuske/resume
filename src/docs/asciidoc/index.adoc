@@ -70,26 +70,27 @@ I'm currently working as a team member, systems analyst and developer at {link-p
 * Web development
 * Mobile development 
 * Agile methodologies
+* TDD
 * WS / REST
 * Microservices
+* TDD
 
  
 == Professional Experience
 
 === Systems Analyst / Developer at PROCERGS
 
-icon:calendar[title="Period"] _June 2010 to Now (On going)_ +
+icon:calendar[title="Period"] _July 2014 to Now (On going)_ +
 icon:group[title="Employee"] {link-procergs}[PROCERGS - Cia. de Processamento de Dados do Rio Grande do Sul, role="external", window="_blank"] +
 
 --
 [horizontal]
-Position:: *Team leader - Systems analist - Developer (Java, Android, .Net) - Agile* +
+Position:: *Systems analist - Java Developer* +
 --
 
-* Designing, analyzing and developing software for the state traffic department. 
+* Working as a team member in designing, analyzing and developing software for the state traffic department. 
 * Migrating legacy systems in Cobol to Java applications.
-* Worked on the development of Android apps.
-* Acting as a Scrum Master and a team leader.
+* Working with 
 
 ==== Used technologies
 
@@ -104,17 +105,17 @@ Position:: *Team leader - Systems analist - Developer (Java, Android, .Net) - Ag
 * SVN/GIT
 
 
-=== Microsoft Developer at TOTVS
+=== Java Developer at INTAB
 
 icon:calendar[title="Period"] November 2013 to June 2014_ +
-icon:group[title="Employee"] {link-totvs}[TOTVS, role="external", window="_blank"] +
+icon:group[title="Employee"] [INTAB, role="external", window="_blank"] +
 
 --
 [horizontal]
-Position:: *Microsoft Developer* +
+Position:: *Java Developer* +
 --
 
-* Worked with C# and ASP.Net in a web system for hospitals.
+* Worked with Java in a web system for Tobacco Company.
 
 ==== Used technologies
 
